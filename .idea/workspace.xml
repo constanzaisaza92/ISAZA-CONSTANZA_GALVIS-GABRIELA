@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="716720e8-7771-416f-b258-7d8c27f29569" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISAZA-CONSTANZA_GALVIS-GABRIELA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties.properties" afterDir="false" />
+    <list default="true" id="716720e8-7771-416f-b258-7d8c27f29569" name="Changes" comment="Initial 2 project setup with Log4j and H2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Constanza Isaza Maya/Documents/Digital House/5 BIMESTRE/Back end/H2/h2-2.2.224.jar",
     "project.structure.last.edited": "Libraries",
@@ -53,6 +44,28 @@
       <option name="presentableId" value="Default" />
       <updated>1715872820601</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial project setup with Log4j and H2">
+      <option name="closed" value="true" />
+      <created>1715875985605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715875985605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial 2 project setup with Log4j and H2">
+      <option name="closed" value="true" />
+      <created>1715876181114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715876181114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project setup with Log4j and H2" />
+    <MESSAGE value="Initial 2 project setup with Log4j and H2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial 2 project setup with Log4j and H2" />
   </component>
 </project>
